@@ -1,0 +1,1 @@
+Very first project. The goal is to quickly get back to speed on HTML
